@@ -76,7 +76,11 @@
   * Soluções pra análise de crédito / garantia
   * Integração com solução de Open Finance
 
-##### Diga oi pra gente :)
+#### Pontos gerais de contratação
+* Remote first (com opção de CoWorking disponível em São Paulo)
+* Regime PJ
+
+#### Diga oi pra gente :)
 * `oi@volpi.tech`
 * Whatsapp: `11987393707`
 * Telegram: https://t.me/rondysousa87
