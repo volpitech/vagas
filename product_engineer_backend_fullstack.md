@@ -17,7 +17,7 @@
 
 #### Momento atual da empresa
 * Temos mais de 100 contratos já celebrados. Neste segundo semestre de 2022, financiamos a aquisição de mais de R$100 milhões em imóveis, em mais de R$65 milhões em crédito. E isso é só o começo.
-* Estamos querendo o melhor produto de financiamento imobiliário, para desbancar os grandes bancos na relação mais importante e duradora que há para um cliente.
+* Estamos querendo o melhor produto de financiamento imobiliário, para desbancar os grandes bancos na relação mais importante e duradoura que há para um cliente.
 
 #### Por que a Volpi?
 * Educação é um dos nossos valores, e queremos nosso time sempre aprendendo mais.
