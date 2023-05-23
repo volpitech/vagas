@@ -38,7 +38,7 @@ Há vários outros aspectos do processo de compra de imóvel que podemos melhora
   * Temos um escritório na Vila Madalena (bairro em São Paulo capital)
   * Fazemos um workday em São Paulo de tempos em tempos
 
-### Estamos gradualmenente expandindo nosso time de product engineers
+### Estamos gradualmenente expandindo nosso time de software engineers
 #### Atividades e Responsabilidades:
 - Desenvolvimento de código (testável, pragmático, empático, fit for purpose).
 - Migração de soluções low-code/no-code pra code/in-house.
