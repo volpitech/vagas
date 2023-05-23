@@ -77,6 +77,7 @@ Há vários outros aspectos do processo de compra de imóvel que podemos melhora
 #### Pontos gerais de contratação
 * Remote first (com opção de CoWorking disponível em São Paulo)
 * Regime PJ
+* Plano de saúde Alice
 
 #### Diga oi pra gente :)
 * `rondy@volpi.tech`
