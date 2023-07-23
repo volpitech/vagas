@@ -14,7 +14,7 @@ Há vários outros aspectos do processo de compra de imóvel que podemos melhora
 #### Nosso time atual:
 * 12 pessoas no total
 * 2 founders
-* Time tech (software engineers): 5 pessoas
+* Time tech (software engineers): 5 pessoas + 1 tech lead
 
 #### Por que a Volpi?
 * Educação é um dos nossos valores, e queremos nosso time sempre aprendendo mais.
@@ -43,6 +43,7 @@ Há vários outros aspectos do processo de compra de imóvel que podemos melhora
 - Desenvolvimento de código (testável, pragmático, empático, fit for purpose).
 - Migração de soluções low-code/no-code pra code/in-house.
 - Análise e entendimento de planilhas complexas e gradual conversão para custom software.
+- Adoção e integração com plataformas CRM/iPaaS/automatização de workflows.
 - Interação via Slack com diversas empresas parceiras (Bank as a service, Open finance, Data platforms, soluções de pagamento/cobrança, etc.)
 - Contato diário com ambiente de produção e feedback com clientes reais (internos e externos). Valorizamos o sentimento de pertencimento e autoria, com ownership da entrega à validação (no-DBA/QA/project managers).
 - Acreditamos que nossos software engineers devem estar munidos de informações, ferramentas e acessos (error tracking, logging, CI/CD, deployment to production, etc.)
@@ -50,10 +51,13 @@ Há vários outros aspectos do processo de compra de imóvel que podemos melhora
 #### Requisitos:
 - Experiência em desenvolvimento de aplicações fullstack (majoritariamente em backend).
 - Conhecimento em Python (webapps, apis, scripts CLI, data notebooks, etc.). Ainda não sabe Python ou sabe pouco? Dependendo do seu perfil, damos o suporte à sua capacitação (mentoria, cursos, período de adaptação, etc.)
+- Interesse pela área de conhecimento de crédito imobiliário.
+- Perfil builder e pesssoa "produteira".
 
 #### Ferramentas que usamos diariamente:
 - Python (Django), PostgreSQL, Git/Github, Jupyter Notebooks, comunicação assíncrona (checklists, threads, mensagens em vídeos).
 - Render (PaaS), AWS, Sentry, Papertrail.
+- Jestor (iPaaS/CRM).
 
 #### Diferenciais e não-obrigatórios:
 - Experiência com sistemas financeiros de pagamentos e recebimentos.
@@ -70,9 +74,9 @@ Há vários outros aspectos do processo de compra de imóvel que podemos melhora
 #### O que vamos fazer nos próximos meses
   * Plataforma para cliente final e fundos investidores
   * Plataforma interna pra jornada de originação de clientes (CRM-like)
-  * Migração da plataforma core atual (Django Admin => solução customizada)
+  * Migração e evolução da plataforma core atual (Django Admin => solução customizada)
   * Soluções pra análise de crédito / garantia
-  * Integração com solução de Open Finance
+  * Integração com soluções de Open Finance
 
 #### Pontos gerais de contratação
 * Remote first (com opção de CoWorking disponível em São Paulo)
