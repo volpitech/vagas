@@ -9,9 +9,9 @@ Flavors da vaga: Analytics engineer, Data scientist, AI engineer
 
 #### Requisitos
 - Experiência com tecnologias de análises e extração de documentos digitais (Python, pandas, data notebooks, Streamlit, Metabase, etc.)
-- Desejável ter conhecimento e interesse de tecnologias IA, LLMs, GPTs, prompt engineer, busca semântica, etc
+- Desejável ter conhecimento e interesse de tecnologias AI, LLMs, GPTs, prompt engineering, busca semântica, etc
 - Autonomia pra executar projetos do zero (da fase de análise, execução, validação)
-- Ter perfil empreendedor e produteiro, foco mais em problema e resultados, menos na solução
+- Ter perfil empreendedor e produteiro, com foco em problemas, oportunidades e resultados
 - Capacidade analítica, facilidade de extrair insights de planilhas operacionais, ferramentas de BI, etc.
 - Experiência nas disciplinas de análise de requisitos e projetos de desenvolvimento.
 
@@ -26,6 +26,7 @@ Flavors da vaga: Analytics engineer, Data scientist, AI engineer
 - Curioso, proativo, colaborativo, "resolvedor" de problemas
 - Excelentes habilidades interpessoais e de comunicação empática (verbal, escrita e, sobretudo, escuta)
 - Gosta de aprender domínios complexos (crédito imobiliário, mercado financeiro)
+- Ganha entusiasmo em ambientes ambíguos
 - Busca evoluir no lado comportamental enquanto profissional do conhecimento
 
 #### Visão de sucesso em 6 meses:
