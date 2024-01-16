@@ -35,7 +35,10 @@
 
 #### Sobre a Volpi:
 
-A Volpi é o #1 financiamento imobiliário 100% digital, simples e inteligente.
+A [Volp](https://volpi.tech/) é o #1 financiamento imobiliário 100% digital, simples e inteligente.
+
 Nossa tecnologia proprietária está transformando um mercado obsoleto e tornando a realização do sonho de viver bem em um processo mais rápido e acessível para todos.
+
 Somos uma solução que simplifica a complexidade pro cliente final, pro vendedor, para o investidor e para os cartórios. Há vários outros aspectos do processo de compra de imóvel que podemos melhorar ainda, e há diversos outros produtos financeiros relacionados ao financiamento que desenvolveremos.
+
 Momento atual da empresa: Temos mais de 280 contratos já celebrados. Já financiamos a aquisição de mais de R$230 milhões em imóveis, e mais de R$150 milhões em crédito. E isso é só o começo. Estamos querendo o melhor produto de financiamento imobiliário, para desbancar os grandes bancos na relação mais importante e duradoura que há para um cliente.
