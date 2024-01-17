@@ -1,5 +1,7 @@
 ## Product Designer
 
+Somos uma startup early-stage de 10-20 pessoas, cujo atual time de produto é composto apenas por engenheiros de software. Buscamos profissionais em produto, design e dados para fortalecer e equilibrar nossa equipe. Oferecemos um ambiente ágil, com desafios ambíguos, centrado na descoberta de produto e na construção de uma cultura sólida. Se você busca fazer a diferença em um cenário dinâmico, esta é a oportunidade ideal.
+
 #### Responsabilidades / Como será seu dia-dia:
 - Ser o pilar de UX nas principais jornadas da empresa, garantindo uma experiência desejada e utilizável para os usuários
 - Colaborar com equipes multidisciplinares para transformar conceitos em fluxos de usuários, wireframes, mockups e protótipos
