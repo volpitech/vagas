@@ -1,6 +1,6 @@
 ## Product Manager
 
-Buscamos um profissional com perfil multidisciplinar para assumir a gestão de produto e experiência do usuário em nossa plataforma de crédito imobiliário. Você será responsável por entender a fundo os processos, personas e necessidades dos stakeholders, definir estratégias e visões de curto e longo prazo, elaborar soluções e garantir o sucesso na adoção dos produtos desenvolvidos.
+Buscamos uma pessoa multidisciplinar pra encabeçar a área de produto/UX em nossa plataforma de crédito imobiliário. Você será responsável por entender a fundo os processos, personas e necessidades dos stakeholders, definir estratégias e visões de curto e longo prazo, elaborar soluções e garantir o sucesso na adoção dos produtos desenvolvidos.
 
 #### Responsabilidades / Como será seu dia-dia:
 - Mapear em profundidade os processos, jornadas e requisitos dos usuários nas operações de crédito imobiliário, entendendo as necessidades e dores dos clientes finais, originadores, times internos e outros atores relevantes.
