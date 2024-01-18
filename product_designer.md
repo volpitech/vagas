@@ -37,7 +37,7 @@ contexto da vaga: somos uma startup early-stage de 10-20 pessoas, cujo atual tim
 
 #### Sobre a Volpi:
 
-A [Volp](https://volpi.tech/) é o #1 financiamento imobiliário 100% digital, simples e inteligente.
+A [Volpi](https://volpi.tech/) é o #1 financiamento imobiliário 100% digital, simples e inteligente.
 
 Nossa tecnologia proprietária está transformando um mercado obsoleto e tornando a realização do sonho de viver bem em um processo mais rápido e acessível para todos.
 
