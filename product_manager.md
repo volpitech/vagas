@@ -2,6 +2,10 @@
 
 Buscamos uma pessoa multidisciplinar pra encabeçar a área de produto/UX em nossa plataforma de crédito imobiliário. Você será responsável por entender a fundo os processos, personas e necessidades dos stakeholders, definir estratégias e visões de curto e longo prazo, elaborar soluções e garantir o sucesso na adoção dos produtos desenvolvidos.
 
+Contexto da vaga: somos uma startup early-stage de 10-20 pessoas, cujo atual time de produto é composto apenas por engenheiros de software. Buscamos profissionais em produto, design e dados para fortalecer e equilibrar nossa equipe. Oferecemos um ambiente ágil, com desafios ambíguos, centrado na descoberta de produto e na construção de uma cultura sólida. Se você fica entusiasmado nesse tipo de ambiente, esta é a oportunidade ideal.
+
+flavors da vaga: business analyst, technical product manager, business architect.
+
 #### Responsabilidades / Como será seu dia-dia:
 - Mapear em profundidade os processos, jornadas e requisitos dos usuários nas operações de crédito imobiliário, entendendo as necessidades e dores dos clientes finais, originadores, times internos e outros atores relevantes.
 - Sintetizar os insights coletados pela empresa e transformá-los em estratégias e planos de ação para construção e evolução dos produtos digitais.
@@ -10,15 +14,16 @@ Buscamos uma pessoa multidisciplinar pra encabeçar a área de produto/UX em nos
 
 
 #### O que buscamos / Requisitos:
-- Visão sistêmica e orientação ao usuário num ambiente com múltiplas áreas e disciplinas técnicas.
-- Sólida experiência com metodologias ágeis e frameworks como OKRs, Lean UX, Jobs to be Done.
-- Habilidades analíticas para extrair e priorizar insights a partir de dados, processos, comportamentos e feedbacks.
-- Domínio de técnicas de descoberta, prototipação e especificação de requisitos funcionais em ambiente digital.
-- Vivência em empresas de tecnologia, preferencialmente fintechs, crédito e/ou mercado imobiliário.
+- Sólida experiência com metodologias de novos produtos digitais, como product discovery/delivery, OKRs, Lean UX, Jobs to be Done, Shape Up;
+- Habilidades técnicas de Product Manager focando em temas técnicos/plataforma/dados;
+- Visão sistêmica e orientação ao usuário num ambiente com múltiplas áreas e disciplinas técnicas;
+- Habilidades analíticas para extrair e priorizar insights a partir de dados, processos, comportamentos e feedbacks;
+- Domínio de técnicas de descoberta, prototipação e especificação de requisitos funcionais em ambiente digital;
 - Excelente comunicação, capacidade de influenciar e trabalhar com times multidisciplinares.
 
 
 #### Diferenciais:
+- Vivência em empresas de tecnologia, preferencialmente fintechs, crédito e/ou mercado imobiliário.
 - Conhecimento de ferramentas no-code, gestão de processos e metodologias ágeis.
 - Formação relevante em gestão, tecnologia, experiência do usuário ou áreas relacionadas.
 - Inglês fluente.
